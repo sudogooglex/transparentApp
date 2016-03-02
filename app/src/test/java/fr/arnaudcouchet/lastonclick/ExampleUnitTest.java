@@ -1,4 +1,4 @@
-package fr.arnaudcouchet.simpletransparent;
+package fr.arnaudcouchet.lastonclick;
 
 import org.junit.Test;
 

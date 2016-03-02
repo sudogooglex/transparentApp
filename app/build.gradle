@@ -5,8 +5,8 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "fr.arnaudcouchet.simpletransparent"
-        minSdkVersion 19
+        applicationId "fr.arnaudcouchet.lastonclick"
+        minSdkVersion 21
         targetSdkVersion 23
         versionCode 1
         versionName "1.0"
