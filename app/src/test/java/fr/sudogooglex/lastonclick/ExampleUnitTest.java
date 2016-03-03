@@ -1,4 +1,4 @@
-package fr.arnaudcouchet.lastonclick;
+package fr.sudogooglex.lastonclick;
 
 import org.junit.Test;
 

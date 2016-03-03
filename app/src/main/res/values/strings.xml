@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LastOnClick</string>
+    <string name="hide">Hide</string>
+    <string name="send">Send Rocket</string>
 </resources>
